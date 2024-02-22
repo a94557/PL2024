@@ -55,3 +55,12 @@ Criar em Python um pequeno conversor de MarkDown para HTML para os elementos des
     Out: Como se vê na imagem seguinte: <img src="http://www.coellho.com" alt="imagem dum coelho"/> ...
     
 
+**Resultados**
+
+Exemplo:
+
+![imagem do exemplo](imagens/resultado.png)
+
+Resultado:
+
+![imagem do resultado](imagens/resultado.png)
