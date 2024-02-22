@@ -59,7 +59,7 @@ Criar em Python um pequeno conversor de MarkDown para HTML para os elementos des
 
 Exemplo:
 
-![imagem do exemplo](imagens/resultado.png)
+![imagem do exemplo](imagens/exemplo.png)
 
 Resultado:
 
