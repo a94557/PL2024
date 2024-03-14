@@ -1,0 +1,40 @@
+{
+  "stock": [
+    {
+      "cod": "A23",
+      "nome": "agua 0.5L",
+      "quant": 8,
+      "preco": 0.7
+    },
+    {
+      "cod": "A11",
+      "nome": "sumol",
+      "quant": 3,
+      "preco": 1.0
+    },
+    {
+      "cod": "A12",
+      "nome": "kikat",
+      "quant": 6,
+      "preco": 0.75
+    },
+    {
+      "cod": "A13",
+      "nome": "poker",
+      "quant": 5,
+      "preco": 0.65
+    },
+    {
+      "cod": "A14",
+      "nome": "coca cola",
+      "quant": 8,
+      "preco": 1.2
+    },
+    {
+      "cod": "A33",
+      "nome": "fini",
+      "quant": 5,
+      "preco": 1.5
+    }
+  ]
+}
